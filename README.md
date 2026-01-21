@@ -1,1 +1,1 @@
-![img](./design/destop-design.jpg)
+![img](./design/desktop-design.jpg)
